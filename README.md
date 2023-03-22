@@ -1,4 +1,7 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, Hi there!  I am Abid Ali, Full Stack Developer</h1>
+
+
+💫 About Me:
 🌱 I’m currently learning Full Stack, React Native<br><br>💬 Ask me about react , react js, c++<br><br>📫 How to reach me abidqureshi7277@gmail.com
 
 
